@@ -87,7 +87,7 @@ a:hover {
   --romantic: "La Belle Aurore", cursive;
   --scary: "Creepster", cursive;
   --cowboy: "Rye", cursive;
-  --regular: sans-serif;
+  --regular: Arial, sans-serif;
   --fantasy: "MedievalSharp", cursive;
   --font: var(--regular);
   --sharp: 0;
