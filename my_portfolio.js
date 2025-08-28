@@ -29,7 +29,7 @@
 // Replace the arguments below according to your preference.
 
 // space, scary, military, romantic, cowboy, fantasy, superhero
-favouriteMovieGenre("Space");
+favouriteMovieGenre("cowboy");
 
 // watermelon, tomato, banana, orange, avocado, blueberry
 favouriteFruit("banana");
