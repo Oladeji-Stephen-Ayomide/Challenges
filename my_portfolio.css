@@ -127,7 +127,9 @@ img {
 
 ul {
   list-style-position: inside;
-  text-align: center;
+  text-align: left;
+  display: inline-block;
+  margin: 0 auto;
 }
 
 a {
